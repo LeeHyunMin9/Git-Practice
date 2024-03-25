@@ -1,2 +1,4 @@
 # Git-Practice
-Git Practice for Repository
+Git & Github Practice for Repository
+
+- Date : 2024.03.26
